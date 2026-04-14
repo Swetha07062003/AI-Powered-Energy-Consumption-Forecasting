@@ -104,22 +104,23 @@ Click below to watch the demo video 👇
 ## 📸 Project Screenshots
 
 ### 🔹 Dashboard View
-
-![Dashboard](outputs/screenshot1.png)
-
----
-
-### 🔹 Prediction Example (Normal Usage)
-
-![Prediction](outputs/screenshot2.png)
+![Dashboard](outputs/Screenshot1.png)
 
 ---
 
-### 🔹 Prediction Example (High Usage)
-
-![High Usage](outputs/screenshot3.png)
+### 🔹 Prediction Example
+![Prediction](outputs/Screenshot2.png)
 
 ---
+
+### 🔹 High Usage Prediction
+![High Usage](outputs/Screenshot3.png)
+
+---
+
+## 📊 Energy Prediction Graph
+
+![Graph](images/prediction.png)
 
 ## 📈 Sample Output
 
