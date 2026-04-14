@@ -103,7 +103,7 @@ Click below to watch the demo video 👇
 
 ## 📸 Project Screenshots
 
-### 🔹 Dashboard View
+### 🔹 output
 ![Dashboard](outputs/Screenshot1.png)
 
 ---
