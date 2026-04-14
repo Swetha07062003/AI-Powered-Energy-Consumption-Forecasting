@@ -1,4 +1,5 @@
 # ⚡ AI-Powered Energy Consumption Forecasting
+> 🚀 Built a real-time AI system to forecast energy consumption using machine learning and deploy it with an interactive dashboard.
 
 ## 📌 Overview
 
@@ -93,11 +94,9 @@ streamlit run app.py
 
 ---
 
-## 🎥 Project Demo
+## 🎥 Demo
 
-Click below to watch the demo video 👇
-
-[▶️ Watch Demo](images/demo.mp4)
+[▶️ Watch Demo Video](images/demo.mp4)
 
 ---
 
@@ -118,9 +117,11 @@ Click below to watch the demo video 👇
 
 ---
 
-## 📊 Energy Prediction Graph
+## 📊 Energy Trend Visualization
 
-![Graph](images/prediction.png)
+This graph shows energy consumption patterns over time.
+
+![Energy Graph](images/prediction.png)
 
 ## 📈 Sample Output
 
