@@ -108,12 +108,12 @@ Click below to watch the demo video 👇
 
 ---
 
-### 🔹 Prediction Example
+### 🔹 Prediction Example1
 ![Prediction](outputs/Screenshot2.png)
 
 ---
 
-### 🔹 High Usage Prediction
+### 🔹 Prediction Example2
 ![High Usage](outputs/Screenshot3.png)
 
 ---
